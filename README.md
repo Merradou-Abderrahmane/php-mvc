@@ -2,19 +2,21 @@
 
 ## Table of Contents
 
-1. Introduction
+## Table of Contents
+
+1. [Introduction](#introduction)
    - What is MVC?
    - Why use MVC?
-2. Application structure
+2. [Application structure](#application-structure)
    - Controllers
    - Models
    - Views
-3. How MVC works
+3. [How MVC works](#how-mvc-works)
    - User interacts with the view
    - View sends request to the controller
    - Controller updates the model
    - Model updates the view
-4. Conclusion
+4. [Conclusion](#conclusion)
    - Recap of MVC
    - Benefits of using MVC
 
