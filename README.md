@@ -22,7 +22,7 @@
    - Recap of MVC
    - Benefits of using MVC
 
-# Introduction {#introduction}
+# Introduction
 
 Model-View-Controller (MVC) is a software design pattern that separates the different components of a web application into three distinct parts:
 
@@ -30,23 +30,23 @@ Model-View-Controller (MVC) is a software design pattern that separates the diff
 2. View
 3. Controller
 
-## 1. Model {#model}
+## 1. Model
 
 The model is responsible for managing the data of the application and performing any necessary logic to manipulate that data.
 
-## 2. View {#view}
+## 2. View
 
 The view is responsible for displaying the data to the user and handling any user input.
 
-## 3. Controller {#controller}
+## 3. Controller
 
 The controller is responsible for coordinating the interactions between the model and the view, and for handling user requests.
 
-## Routing {#routing}
+## Routing
 
 To use the MVC pattern in your application, you would typically create a router that maps URLs to controller actions. When a user requests a URL, the router determines which controller action to execute and passes the request to the appropriate controller. The controller then handles the request, updates the model as needed, and renders the appropriate view template to the user.
 
-## How MVC works {#how-mvc-works}
+## How MVC works
 
 Here's a high-level overview of how the MVC pattern works:
 
