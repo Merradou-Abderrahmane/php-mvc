@@ -59,5 +59,3 @@ Here's a high-level overview of how the MVC pattern works:
 ## Conclusion
 
 The MVC pattern helps to make web applications more maintainable and extensible by allowing developers to work on different parts of the application separately. The model handles the data, the view handles the user interface, and the controller handles the interactions between the two.
-
-
